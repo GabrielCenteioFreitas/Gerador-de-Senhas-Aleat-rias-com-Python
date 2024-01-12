@@ -93,7 +93,7 @@ def main():
         time.sleep(0.4) 
         print(f"\n - Este é um gerador de senhas aleatórias com um mínimo de {MIN_CARAC_SENHA} e máximo de {MAX_CARAC_SENHA} caracteres;")
         time.sleep(2.5) 
-        print(f" - Você pode escolher a quantidade exata que deseja de letras minúsculas, maiúsculas, números e caracteres especiais.\n")
+        print(f" - Você pode escolher a quantidade que deseja de letras minúsculas, maiúsculas, números e caracteres especiais.\n")
         time.sleep(3.5) 
         start_end = input("Deseja gerar? [S] [N] ")
         print()
