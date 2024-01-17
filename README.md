@@ -13,5 +13,4 @@ Durante esse projeto, aprofundei conhecimentos nas bibliotecas _random_, _string
   - A biblioteca _os_ é a responsável por limpar o terminal ao iniciar o projeto.
 
 ## ✅ Atualizações futuras:
- - Pretendo adicionar uma interface gráfica através de Tkinter ou Flet;
- - Gerar um arquivo para que possa ser executado em qualquer dispositivo.
+ - Pretendo adicionar uma interface gráfica.
