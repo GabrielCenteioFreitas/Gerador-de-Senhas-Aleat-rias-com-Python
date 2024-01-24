@@ -11,6 +11,3 @@ Durante esse projeto, aprofundei conhecimentos nas bibliotecas _random_, _string
   - Com a biblioteca _time_ foi implementado um tempo de espera entre os outputs no terminal.
 ####   💻 Os:
   - A biblioteca _os_ é a responsável por limpar o terminal ao iniciar o projeto.
-
-## ✅ Atualizações futuras:
- - Pretendo adicionar uma interface gráfica.
